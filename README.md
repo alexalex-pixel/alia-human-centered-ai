@@ -4,9 +4,11 @@
 **Current public version:** 0.1.8  
 **Focus:** Human-centered AI, memory, emotional continuity, multilingual UX, model behavior  
 **Tech:** Flutter, OpenAI API, Android, localization, conversational UX  
+**Creator:** Aliaksandr  
 **Code:** Private during active product development
 
-[Get With Alia on Google Play](https://play.google.com/store/apps/details?id=com.withalia.app)
+[Get With Alia on Google Play](https://play.google.com/store/apps/details?id=com.withalia.app)  
+[Instagram — @withalia.app](https://www.instagram.com/withalia.app/)
 
 ## 1. What it is
 
